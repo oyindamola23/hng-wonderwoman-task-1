@@ -1,4 +1,4 @@
-let name = 'Kareem Taiwo Oyindamola';
+let name = 'Kareem Taiwo';
 let email = 'oyindamolataiwo23@gmail.com';
 let id = 'HNG-00825';
 let lang = 'Javascript';
